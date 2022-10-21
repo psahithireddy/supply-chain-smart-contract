@@ -1,7 +1,0 @@
-[done]to check validity of product associate each quanity with seller but here we can hard code
-
-
-[done] seller 2 cannot sell of m1 
-[done] and seller 1 cannot sell to m2
-[taken care of] we need to put tag on sellerID = manfID
-[fuck it] moreover we should not take max bidders as input
